@@ -3,7 +3,7 @@ import asyncio
 import streamlit as st
 from httpx_oauth.clients.google import GoogleOAuth2
 
-st.title("Google OAuth2 experiments")
+st.title("Google OAuth2 flow")
 
 "## Configuration"
 
